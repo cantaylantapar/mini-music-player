@@ -26,8 +26,7 @@
     "extends": [
       "react-app",
       "react-app/jest"
-    ],
-    "react/jsx-max-props-per-line": [true, { "maximum": 1, "when": "multiline" }]
+    ]
   },
   "browserslist": {
     "production": [
@@ -38,7 +37,7 @@
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
-      "last 1 safari version"
+      "last 1 safari version" 
     ]
   }
 }
